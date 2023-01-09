@@ -4,5 +4,5 @@ bugfix 3
 
 mod 3
 
-print sdfsdfsd
+print bugfix
 pr2
